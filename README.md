@@ -1,44 +1,51 @@
-# 🎉 Sorteio de Amigo Secreto
+# 🎁 Challenge Amigo Secreto
 
-Projeto simples de um sorteador de amigo secreto feito com **HTML, CSS e JavaScript**.
-
-## 📌 Funcionalidades
-- Adicionar nomes à lista.
-- Exibir os nomes adicionados na tela.
-- Sortear um nome aleatório da lista.
-- Remover o nome sorteado para evitar repetições.
-- Exibir o sorteado na tela com a mensagem "O amigo secreto sorteado é: Nome".
+Bem-vindo ao **Challenge Amigo Secreto**! Este projeto foi desenvolvido como parte do desafio proposto durante a bolsa de estudos do **Iniciante em Programação G8 - ONE**. Todo o frontend foi fornecido como base, sendo necessário implementar a lógica em **JavaScript** para realizar o sorteio dos participantes.
 
 ## 🚀 Tecnologias Utilizadas
-- HTML
-- CSS
-- JavaScript (DOM Manipulation)
 
-## 📷 Captura de Tela
-![image](https://github.com/user-attachments/assets/ce439a74-54a7-420d-99a9-d630ece59dde)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
+## 🎯 Objetivo do Projeto
 
-## 📖 Como Usar
+O **Challenge Amigo Secreto** permite que os participantes insiram seus nomes e realizem o sorteio de maneira automática e justa, sem a necessidade de um organizador manual.
+
+## 📌 Funcionalidades
+
+✅ Adicionar participantes
+✅ Sortear amigos secretos de forma aleatória
+✅ Exibir o resultado individualmente para cada participante
+
+## 📂 Estrutura do Projeto
+
+```
+📂 challenge-amigo-secreto
+│-- 📂 assets
+│-- 📄 index.html
+│-- 📄 styles.css
+│-- 📄 script.js
+│-- 📄 README.md
+```
+
+## 🛠️ Como Executar o Projeto
+
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
+   ```sh
+   git clone https://github.com/LorrayneLopes/challenge-amigo-secreto_pt-main.git
    ```
 2. Acesse a pasta do projeto:
-   ```bash
-   cd sorteio-amigo-secreto
+   ```sh
+   cd challenge-amigo-secreto_pt-main
    ```
-3. Abra o arquivo `index.html` no navegador.
-4. Digite os nomes e clique em "Adicionar".
-5. Clique em "Sortear" para escolher um amigo secreto aleatoriamente.
+3. Abra o arquivo `index.html` no navegador para executar o projeto.
 
-## 🛠️ Melhorias Futuras
-- Salvar os nomes em `localStorage` para manter os dados ao recarregar a página.
-- Permitir exportação da lista de amigos e sorteados.
-- Adicionar um botão para reiniciar a lista.
+## 📜 Licença
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo! 😊
+Este projeto está licenciado sob a licença **MIT**. Sinta-se à vontade para modificar e compartilhar!
 
 ---
-Desenvolvido com ❤️ por [Lorrayne](https://github.com/LorrayneLopes)
+
+Desenvolvido com ❤️ por [Lorrayne Lopes](https://github.com/LorrayneLopes).
 
